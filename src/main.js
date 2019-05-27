@@ -6,6 +6,8 @@ import './plugins/element.js'
 
 import './assets/style/main.scss'
 
+import '@/util/permission';
+
 Vue.config.productionTip = false
 Vue.prototype.$apis = interfaces;
 
