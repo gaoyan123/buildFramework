@@ -14,7 +14,7 @@
     "cors": "^2.8.5",
     "element-ui": "^2.4.5",
     "express": "^4.17.0",
-    "mongoose": "^5.5.10",
+    "mongoose": "^5.7.5",
     "sass": "^1.20.1",
     "sass-loader": "^7.1.0",
     "vue": "^2.6.10",
