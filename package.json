@@ -1,7 +1,7 @@
 {
   "name": "login",
   "version": "0.1.0",
-  "author": "gaoyan1",
+  "author": "gaoyan2",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
